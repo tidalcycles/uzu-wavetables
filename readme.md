@@ -1,1 +1,2 @@
-- Digital wavetables provided by Glossing
+- wt_digital wavetables provided by Glossing
+- wt_vgame single cycle waveforms by Adventure Kid https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE/tree/master

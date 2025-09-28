@@ -6,5 +6,18 @@
         "wt_digital/wt_crickets.wav",
         "wt_digital/wt_curses.wav",
         "wt_digital/wt_echoes.wav"
+    ],
+    "wt_vgame": [
+        "wt_vgame/wt_vgame10.wav",
+        "wt_vgame/wt_vgame11.wav",
+        "wt_vgame/wt_vgame12.wav",
+        "wt_vgame/wt_vgame13.wav",
+        "wt_vgame/wt_vgame14.wav",
+        "wt_vgame/wt_vgame15.wav",
+        "wt_vgame/wt_vgame16.wav",
+        "wt_vgame/wt_vgame17.wav",
+        "wt_vgame/wt_vgame18.wav",
+        "wt_vgame/wt_vgame19.wav",
+        "wt_vgame/wt_vgame20.wav"
     ]
 }
