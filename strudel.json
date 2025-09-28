@@ -5,18 +5,6 @@
         "wt_digital/wt_basique.wav",
         "wt_digital/wt_crickets.wav",
         "wt_digital/wt_curses.wav",
-        "wt_digital/wt_earl_grey.wav",
-        "wt_digital/wt_echoes.wav",
-        "wt_digital/wt_glimmer.wav",
-        "wt_digital/wt_majick.wav",
-        "wt_digital/wt_meditation.wav",
-        "wt_digital/wt_morgana.wav",
-        "wt_digital/wt_red_alert.wav",
-        "wt_digital/wt_sad_piano.wav",
-        "wt_digital/wt_shook.wav",
-        "wt_digital/wt_sludge.wav",
-        "wt_digital/wt_squelch.wav",
-        "wt_digital/wt_summer.wav",
-        "wt_digital/wt_wasp.wav"
+        "wt_digital/wt_echoes.wav"
     ]
 }
